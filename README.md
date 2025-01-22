@@ -1,6 +1,6 @@
 # 🌐 Global News Portal
 
-[![Vercel Status](https://vercel.com/api/v1/badges/YOUR-VERCEL-PROJECT-ID/deploy-status)](https://vercel.com/YOUR-USERNAME/YOUR-PROJECT-NAME)
+[![Vercel Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat&logo=vercel&logoColor=white)](https://vercel.com/rajtilak/portfolio)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -153,4 +153,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<p align="center">Made with ❤️ by Your Name</p>
+<p align="center">Made with ❤️ by K Rajtilak</p>
