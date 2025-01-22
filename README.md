@@ -1,6 +1,6 @@
 # 🌐 Global News Portal
 
-[![Vercel Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat&logo=vercel&logoColor=white)](https://vercel.com/rajtilak/portfolio)
+[![Vercel Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat&logo=vercel&logoColor=white)](https://krajtilak-news-portal.vercel.app/)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
